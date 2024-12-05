@@ -1,3 +1,7 @@
+let title = document.getElementById("title");
+title.style.backgroundColor = "blue";
+
+
 //Using Js to style my first paragraph
 let DOM = document.getElementById("DOM");
 DOM.style.backgroundColor = "gray";
