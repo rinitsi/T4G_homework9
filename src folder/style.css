@@ -10,4 +10,19 @@ h1{
     font-family:cursive;
     padding: 10px;
     text-align: center;
+    color: white;
+}
+
+h2{
+    padding:10px;
+    text-align: center;
+}
+
+button{
+    margin: auto 700px;
+}
+
+.mypic{
+    display: none;
+    margin-left: 300px;
 }
